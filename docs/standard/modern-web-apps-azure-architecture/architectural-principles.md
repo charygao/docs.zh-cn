@@ -67,7 +67,7 @@ ms.lasthandoff: 11/21/2017
 
 [了解有关微服务体系结构的详细信息](http://aka.ms/MicroservicesEbook)
 
-### <a name="dont-repeat-yourself-dry"></a>切勿重复 （干）
+### <a name="dont-repeat-yourself-dry"></a>切勿重复 （DRY Don't Repeat yourself）
 
 应用程序应避免指定与多个位置中的特定概念相关，因为这是错误的根源，频繁的行为。 在某些时候中要求, 的更改将需要更改此行为和可能性行为该至少一个实例将无法更新将导致不一致的行为的系统。
 
